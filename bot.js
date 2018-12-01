@@ -3,7 +3,7 @@ const client = new Discord.Client();
 var prefix = "1";
 
 client.on('ready', () => {
-     client.user.setActivity("I Love PrinceCrafter",{type: 'WATCHING'})
+     client.user.setActivity("#. LoYo *& ♡",{type: 'WATCHING'})
 
 });
 
